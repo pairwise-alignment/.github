@@ -9,10 +9,10 @@ Repositories (planned to be) hosted here:
 
 - Rust library with core types.
 - Consistent Rust bindings for popular pairwise aligners.
-- A /runner/ crate that provides a single API and CLI to all wrapped aligners
+- A _runner_ crate that provides a single API and CLI to all wrapped aligners
   that measures time and memory usage.
 - A create to generate semi-random sequence pairs to test aligners on.
-- An /orchestrator/ crate that creates /jobs/ (benchmark tasks) and calls the
+- An _orchestrator_ crate that creates _jobs_ (benchmark tasks) and calls the
   runner for each of them.
 - A thorough benchmark of existing aligners analysing:
   - random and real data,
