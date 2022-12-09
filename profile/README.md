@@ -17,5 +17,7 @@ Repositories (planned to be) hosted here:
   - error rate from 0.1% to 20%,
   - unit, linear, and (double) affine cost models.
 
+Our high level plan is discussed in [this doc](https://docs.google.com/document/d/1J2w1SwNeVtMygXA7-TzIgnYX0f17MMYI_tqrokAmJBg/edit?usp=sharing).
+
 Note:
 library names start with `pa-` so that we can publish them to crates.io under the same name.
