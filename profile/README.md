@@ -10,6 +10,17 @@ Repositories (planned to be) hosted here:
 - `pa-types`: Rust library with core types.
 - `pa-generate`: A crate to generate semi-random sequence pairs to test aligners on.
 - Consistent Rust bindings for popular pairwise aligners.
+  - WFA
+  - Edlib
+  - Triple-accel
+  - Block aligher
+  - A*PA
+  - KSW2
+  - Parasail
+  - SeqAn
+  - DAligner
+  - Bitpal
+  - Gaba
 - `pa-bench`: binaries to benchmark pairwise aligners.
 - A thorough benchmark of existing aligners analysing:
   - random and real data,
