@@ -7,13 +7,10 @@ Feel free to reach out to get involved!
 
 Repositories (planned to be) hosted here:
 
-- Rust library with core types.
+- `pa-types`: Rust library with core types.
+- `pa-generate`: A crate to generate semi-random sequence pairs to test aligners on.
 - Consistent Rust bindings for popular pairwise aligners.
-- A _runner_ crate that provides a single API and CLI to all wrapped aligners
-  that measures time and memory usage.
-- A create to generate semi-random sequence pairs to test aligners on.
-- An _orchestrator_ crate that creates _jobs_ (benchmark tasks) and calls the
-  runner for each of them.
+- `pa-bench`: binaries to benchmark pairwise aligners.
 - A thorough benchmark of existing aligners analysing:
   - random and real data,
   - sequence length from 100 to 1M,
