@@ -1,7 +1,7 @@
 # Pairwise Alignment Benchmarks
 
 This organisation hosts a number of repositories related to benchmarking
-global pairwise aligners.
+global pairwise aligners. The main repo is [pa-bench](https://github.com/pairwise-alignment/pa-bench), which contains more info.
 
 Feel free to reach out to get involved!
 
@@ -14,7 +14,7 @@ Repositories (planned to be) hosted here:
   - Edlib
   - Triple-accel
   - Block aligher
-  - A*PA
+  - A\*PA
   - KSW2
   - Parasail
   - SeqAn
